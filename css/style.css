@@ -6,7 +6,7 @@ html, body {
 }
 
 body {
-  background: url(../images/backgrounds/architecture.jpg) center no-repeat;
+  background-color: margenta;
   background-size: cover;;
   background-attachment: fixed;;
   font-family: Helvetica, Arial, sans-serif;
@@ -61,7 +61,7 @@ a {
 }
 
 a:hover {
-  text-decoration: underline;
+  text-decoration: underline;;
 }
 
 @media only screen and (max-width: 1042px) {
